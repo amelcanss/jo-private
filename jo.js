@@ -3328,12 +3328,12 @@ break
 ╰━ ━ ━ ━ ━ ━ ━ ━ ━ ━•⩵꙰ཱི࿐
  ▬▭▬▭▬ ✦✧✦ ▬▭▬▭▬
 
-© ⏤͟͟͞𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁
+© ⏤͟͟͞Tʜᴇ RᴀʀᴀCᴀɴs🌺😈
 `
 jobotz.sendMessage(m.chat, { image: {url: 'https://telegra.ph/file/094abb98c63d1fbac703e.jpg'}, 
 "contextInfo": {
 "externalAdReply": {
-"title": `©⏤͟͟͞𝐓𝐇𝐄 𝐉𝐎 𝐁𝐎𝐓`,
+"title": `©⏤͟͟͞Tʜᴇ RᴀʀᴀCᴀɴs🌺😈`,
 "body":`Runtime ${runtime(process.uptime())}`,
 "previewType": "PHOTO",
 "showAdAttribution": true,
