@@ -19,8 +19,8 @@ global.APIKeys = {
 
 global.ownername = 'THE RaraCans'
 global.autorecording = true //status auto merekam ( auto record )
-global.autoketik = false //status auto mengetik (auto typing)
-global.available = false //status online (online)
+global.autoketik = true //status auto mengetik (auto typing)
+global.available = true //status online (online)
 // Other
 global.owner = ['6283112471048','6283112471048','6283112471048']
 global.premium = ['6283112471048']
